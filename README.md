@@ -1,7 +1,19 @@
-[![circleci-badge]][circleci] 
+[![circleci-badge]][circleci] [![bintray-badge]][bintray]
+[![bintray-stats-badge]][bintray-stats] [![gitter-badge]][gitter]
 
-[circleci-badge]: http://localhost/api/project_badges/measure?project=exa-scala-absolut&metric=alert_status
-[circleci]: http://localhost/dashboard?id=exa-scala-absolut
+[bintray]: https://bintray.com/mwz/sbt-plugin-releases/sbt-sonar/_latestVersion
+[bintray-badge]:
+  https://api.bintray.com/packages/mwz/sbt-plugin-releases/sbt-sonar/images/download.svg
+[bintray-stats]:
+  https://bintray.com/mwz/sbt-plugin-releases/sbt-sonar#statistics
+[bintray-stats-badge]:
+  https://img.shields.io/badge/dynamic/json.svg?uri=https://bintray.com/statistics/packageStatistics?pkgPath=/mwz/sbt-plugin-releases/sbt-sonar&query=$.totalDownloads&label=Downloads+(last+30+days)&colorB=brightgreen
+[circleci]: https://circleci.com/gh/mwz/sbt-sonar
+[circleci-badge]:
+  https://img.shields.io/circleci/project/github/mwz/sbt-sonar/master.svg?label=Build
+[gitter]: https://gitter.im/sonar-scala/sonar-scala
+[gitter-badge]:
+  https://img.shields.io/gitter/room/sonar-scala/sonar-scala.svg?colorB=46BC99&label=Chat
 
 # Welcome to GitHub
 
