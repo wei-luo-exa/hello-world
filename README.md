@@ -15,7 +15,8 @@
 [gitter-badge]:
   https://img.shields.io/gitter/room/sonar-scala/sonar-scala.svg?colorB=46BC99&label=Chat
 [scoverage]: http://localhost/dashboard?id=exa-scala-absolut
-[scoverage-badge]: http://localhost/api/project_badges/measure?project=exa-scala-absolut&metric=alert_status
+[scoverage-badge]: 
+  http://localhost/api/project_badges/measure?project=exa-scala-absolut&metric=alert_status
 
 # Welcome to GitHub
 
