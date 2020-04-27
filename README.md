@@ -1,5 +1,5 @@
 [![circleci-badge]][circleci] [![bintray-badge]][bintray]
-[![bintray-stats-badge]][bintray-stats] [![gitter-badge]][gitter][![circleci-badge]][circleci]
+[![bintray-stats-badge]][bintray-stats] [![gitter-badge]][gitter][![scoverage-badge]][scoverage]
 
 [bintray]: https://bintray.com/mwz/sbt-plugin-releases/sbt-sonar/_latestVersion
 [bintray-badge]:
@@ -14,8 +14,8 @@
 [gitter]: https://gitter.im/sonar-scala/sonar-scala
 [gitter-badge]:
   https://img.shields.io/gitter/room/sonar-scala/sonar-scala.svg?colorB=46BC99&label=Chat
-[circleci]: http://localhost/dashboard?id=exa-scala-absolut
-[circleci-badge]: http://localhost/api/project_badges/measure?project=exa-scala-absolut&metric=alert_status
+[scoverage]: http://localhost/dashboard?id=exa-scala-absolut
+[scoverage-badge]: http://localhost/api/project_badges/measure?project=exa-scala-absolut&metric=alert_status
 
 # Welcome to GitHub
 
