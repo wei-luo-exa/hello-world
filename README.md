@@ -1,5 +1,5 @@
 [![circleci-badge]][circleci] [![bintray-badge]][bintray]
-[![bintray-stats-badge]][bintray-stats] [![gitter-badge]][gitter][![scoverage-badge]][scoverage]
+[![bintray-stats-badge]][bintray-stats] [![gitter-badge]][gitter] [![scoverage-badge]][scoverage]
 
 [bintray]: https://bintray.com/mwz/sbt-plugin-releases/sbt-sonar/_latestVersion
 [bintray-badge]:
