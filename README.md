@@ -1,3 +1,8 @@
+[![circleci-badge]][circleci] 
+
+[circleci-badge]: http://localhost/api/project_badges/measure?project=exa-scala-absolut&metric=alert_status
+[circleci]: http://localhost/dashboard?id=exa-scala-absolut
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
