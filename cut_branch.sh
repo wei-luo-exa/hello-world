@@ -20,7 +20,7 @@ then
     git add web-common/upgrade_build_info.txt
 fi
 
-git commmit -m "BLD-711 create $NEW_BRANC from $BASE_BRANCH" .
-git push
+git commit -m "BLD-711 create $NEW_BRANCH from $BASE_BRANCH" .
+git push --set-upstream origin $NEW_BRANCH
 
 
