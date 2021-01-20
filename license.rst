@@ -13,8 +13,7 @@ Please inform appropriate individuals that this has been reviewed, application o
 2. Distributions of Exabeam products (which includes SaaS) must include, either within the product as a legal notice on the help page or within the applicable documentation:
  * The original source code, or a link to the repository from which it was downloaded.
  * The full text of the LGPL license with distributions, which can be found here: https://opensource.org/licenses/LGPL-2.1
- * The following notice:
-     ::
+ * The following notice::
      Logback LICENSE
 
      Logback: the reliable, generic, fast and flexible logging framework.
