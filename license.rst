@@ -81,14 +81,14 @@ Please inform appropriate individuals that this has been reviewed, application o
     and therefore, elected the GPL Version 2 license, then the option applies
     only if the new code is made subject to such option by the copyright
     holder.
- 
+
 3. This review assumes that NO MODIFICATIONS have been or will be made to the source software. Any modifications would require a resubmission for Legal review.
- 
+
 4. Compliance requires that the attribution document be updated to identify/track ALL items, including:
-Name/version of FOSS as included in the Exabeam Product(s)
-Version(s) of the Exabeam Product(s) containing the FOSS IP
-Name of the FOSS license
-Copyright notice
-The URL(s) for the download AND for the FOSS license (if different)
+ * Name/version of FOSS as included in the Exabeam Product(s)
+ * Version(s) of the Exabeam Product(s) containing the FOSS IP
+ * Name of the FOSS license
+ * Copyright notice
+ * The URL(s) for the download AND for the FOSS license (if different)
  
 5. Exabeam Legal recommends maintaining an ORIGINAL copy of the FOSS download in Exabeam's own repository as best practices in case the original source code or link ceases to be accessible.
