@@ -43,7 +43,7 @@ Please inform appropriate individuals that this has been reviewed, application o
  
 1. Legal recommends maintaining the above FOSS in a separate file that is independent of Exabeam proprietary software after compiling and linking it dynamically (for example, in the case of Java, the library should be maintained in a .jar file).  To be clear, while not required by this FOSS license, Exabeam Legal is recommending best practices for the delivery of a FOSS library to minimize exposure of Exabeam IP.
 2. Distributions of Exabeam products (which includes SaaS) must include the following notice, either within the product as a legal notice on the help page or within the applicable documentation:
-
+::
     DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.
  
     Copyright (c) 2010-2016 Oracle and/or its affiliates. All rights reserved.
