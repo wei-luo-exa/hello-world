@@ -11,11 +11,11 @@ Please inform appropriate individuals that this has been reviewed, application o
 1. Approval is conditioned on maintaining the above FOSS in a separate file that is independent of Exabeam proprietary software after compiling and linking it dynamically (for example, in the case of Java, the library should be maintained in a .jar file).  To be clear, if LOGBACK-CLASSIC-1.1.1.JAR is statically linked to Exabeam software (i.e. compiled into), then Exabeam must release object code or source code such that the user can modify the library, which may expose Exabeam IP.
 
 2. Distributions of Exabeam products (which includes SaaS) must include, either within the product as a legal notice on the help page or within the applicable documentation:
-   * The original source code, or a link to the repository from which it was downloaded.
-   * The full text of the LGPL license with distributions, which can be found here: https://opensource.org/licenses/LGPL-2.1
-   * The following notice:
+ * The original source code, or a link to the repository from which it was downloaded.
+ * The full text of the LGPL license with distributions, which can be found here: https://opensource.org/licenses/LGPL-2.1
+ * The following notice:
 
-   ::
+ ::
 
    Logback LICENSE
    
