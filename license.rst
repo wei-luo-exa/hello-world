@@ -15,7 +15,7 @@ Please inform appropriate individuals that this has been reviewed, application o
  * The full text of the LGPL license with distributions, which can be found here: https://opensource.org/licenses/LGPL-2.1
  * The following notice:
 
- ::
+   ::
 
    Logback LICENSE
    
