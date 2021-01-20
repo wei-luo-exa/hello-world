@@ -3,8 +3,9 @@ Third-Party Licenses
 
 Exabeam AA uses and distributes third-party software under the following licenses:
 
-LOGBACK-CLASSIC-1.1.1.JAR
+CH.QOS.LOGBACK
 ----------
+Version: 1.1.1
 
 Please inform appropriate individuals that this has been reviewed, application of GNU LGPL 2.1 is confirmed, and use of LOGBACK-CLASSIC-1.1.1.JAR in our code base is approved by Legal with the following notes:
  
@@ -36,7 +37,7 @@ Please inform appropriate individuals that this has been reviewed, application o
 
 5. Exabeam Legal recommends maintaining an ORIGINAL copy of the FOSS download in Exabeam's own repository as best practices in case the original source code or link ceases to be accessible.
 
-ORG.GLASSFISH.HK2:HK2-API
+ORG.GLASSFISH.HK2
 ----------
 
 Please inform appropriate individuals that this has been reviewed, application of CDDL 1.1 is confirmed, and use of ORG.GLASSFISH.HK2:HK2-API in our code base is approved by Legal with the following notes:
